@@ -21,10 +21,6 @@
     chain-length = <27>;
 };
 
-&oled {
-    reg = <0x3d>;
-};
-
 / {
     keymap {
         compatible = "zmk,keymap";
