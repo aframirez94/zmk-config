@@ -47,9 +47,9 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp ES_PIPE   &kp ES_DOUBLE_QUOTES  &kp ES_HASH              &kp ES_DOLLAR             &kp ES_PERCENT       &kp ES_AMPERSAND        &kp QUESTION       &kp KP_NUMLOCK      &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp BSPC
-&kp CAPSLOCK  &kp ES_LT             &kp ES_LEFT_PARENTHESIS  &kp ES_RIGHT_PARENTHESIS  &kp ES_LEFT_BRACKET  &kp ES_RIGHT_BRACKET    &kp ES_LEFT_BRACE  &kp ES_RIGHT_BRACE  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp ES_PLUS
-&kp LCTRL     &kp LEFT_ALT          &kp ES_ASTERISK          &kp ES_EXCLAMATION        &kp ES_BACKSLASH     &kp ES_EQUAL            &kp ES_SLASH       &kp KP_NUMBER_0     &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp RETURN
+&kp ES_PIPE   &kp ES_DOUBLE_QUOTES  &kp ES_HASH              &kp ES_DOLLAR             &kp ES_PERCENT       &kp ES_AMPERSAND        &kp ES_QUESTION    &kp KP_NUMLOCK      &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp BSPC
+&kp CAPSLOCK  &kp ES_GREATER_THAN   &kp ES_LEFT_PARENTHESIS  &kp ES_RIGHT_PARENTHESIS  &kp ES_LEFT_BRACKET  &kp ES_RIGHT_BRACKET    &kp ES_LEFT_BRACE  &kp ES_RIGHT_BRACE  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp ES_PLUS
+&kp LCTRL     &kp ES_LESS_THAN      &kp ES_ASTERISK          &kp ES_EXCLAMATION        &kp ES_BACKSLASH     &kp ES_EQUAL            &kp ES_SLASH       &kp KP_NUMBER_0     &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp RETURN
                                                              &kp LSHIFT                &trans               &kp SPACE               &kp RET            &trans              &kp RALT
             >;
         };
