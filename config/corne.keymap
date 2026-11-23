@@ -47,7 +47,7 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp ESC    &kp ES_PIPE   &kp AT                &kp HASH               &kp DLLR   &kp AMPERSAND    &kp QUESTION    &kp KP_NUMLOCK   &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp BSPC
+&kp ESC    &kp ES_PIPE   &kp ES_AT             &kp HASH               &kp DLLR   &kp AMPERSAND    &kp QUESTION    &kp KP_NUMLOCK   &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp BSPC
 &kp TAB    &kp PERCENT   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LBKT   &kp RBKT         &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp PLUS
 &kp LCTRL  &kp LEFT_ALT  &kp ASTERISK          &kp EXCLAMATION        &kp MINUS  &kp EQUAL        &kp UNDER       &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp RETURN
                                                &kp LSHIFT             &trans     &kp SPACE        &kp RET         &trans           &kp RALT
